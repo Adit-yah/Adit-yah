@@ -1,8 +1,6 @@
 ## Hi there 👋
 CS Undergrad | Web Dev in MERN | Learning • Building • Sharing
 
-![Profile views](https://komarev.com/ghpvc/?username=Adit-yah&color=dc143c&style=for-the-badge&label=Profile+Views)
-
 
 
 <!--
